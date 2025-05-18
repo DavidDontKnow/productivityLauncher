@@ -1,1 +1,13 @@
-{"websites": ["https://msjc.instructure.com/", "https://github.com", "https://outlook.office.com/mail/?ui=en-US&rs=US&auth=1", "http://hilite.me\n"], "applications": {"VS Code": "/Applications/Visual Studio Code.app", "Terminal": "/Applications/Utilities/Terminal.app", "Music": "/System/Applications/Music.app", "Discord": "/Applications/Discord.app"}}
+{
+  "websites": [
+    "https://msjc.instructure.com/",
+    "https://github.com",
+    "https://outlook.office.com/mail/?ui=en-US&rs=US&auth=1"
+  ],
+  "applications": {
+    "VS Code": "/Applications/Visual Studio Code.app",
+    "Terminal": "/Applications/Utilities/Terminal.app",
+    "Music": "/System/Applications/Music.app",
+    "Discord": "/Applications/Discord.app"
+  }
+}
